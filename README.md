@@ -33,7 +33,7 @@ Uygulama için herhangi bir database kullanılması istenilmemişti ve bende bu 
 
 Diğer taraftan, ürünler için 32 karakterli unique bir değer generate ettim. Burada ürünlere kendim de değer verebilirdim fakat ilerleyen süreçlerde bu şekilde bir yapıyı kullanmanın önemli olduğunu düşündüğüm için projeme dahil etmeye karar verdim. Ek olarak personel, product ve order için tanımlamalarımı program.cs yerine ayrı bir sınıf açarak kullanmayı ve projemi daha görünür bir hale getirmeyi denedim. Nerelerde validasyon kullanmam gerektiğine karar verdim ve bu adımdan sonra kod yazmaya başladım ve projemi tamamlamış oldum.
 
-Öğretici keyifli bir çalışma oldu. Emeği geçen ve bu readme dosyasını okuan herkese teşekkür ediyorum.
+Öğretici keyifli bir çalışma oldu. Emeği geçen ve bu readme dosyasını okuyan herkese teşekkür ediyorum.
 
 Sevgiler,
 
